@@ -1,4 +1,4 @@
-# Turtle_crossing
+# Turtle_crossing game
 
 This is a simple Turtle Crossing game implemented in Python, primarily using the tkinter module for the graphical interface.
 
